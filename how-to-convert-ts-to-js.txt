@@ -1,0 +1,7 @@
+How to convert typescript file to javascript file
+1. first create a .ts file
+2. compile the file into js file by executing the below command 
+    tsc <filename.ts>
+3. The above command will create a .js file of same name
+4. run the compiled js file using the below command 
+    node <filename.js>
