@@ -1,0 +1,13 @@
+Dependencies:
+    node-js 
+    npm
+    [refer this document for installing Dependencies
+    https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-20-04]
+
+To install ts:
+    1. create a node js project using the command "npm init" inside a seperate folder 
+    2. install typescript globally by using the command
+        sudo npm i typescript -g
+    3. check if it has installed properly by using the command  
+        tsc -v
+    4. start writing you .ts file
